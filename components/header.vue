@@ -1,7 +1,6 @@
 <template>
-    <div>
-        Welcome to home page!
-    </div>
+<div>
+</div>
 </template>
 
 <script>
@@ -10,6 +9,6 @@
     }
 </script>
 
-<style scoped>
+<style lang="scss" scoped>
 
 </style>
