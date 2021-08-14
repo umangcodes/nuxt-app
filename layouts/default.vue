@@ -41,8 +41,8 @@ body {
 #app {
   box-sizing: border-box;
   width: 500px;
-  padding: 0 20px 20px;
-  margin: 0 auto;
+  padding: 0 20px 0 20px;
+  margin: 0 50px 0 50px;
 }
 hr {
   box-sizing: content-box;
