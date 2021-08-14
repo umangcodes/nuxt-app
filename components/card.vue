@@ -1,5 +1,5 @@
 <template>
-  <div class="min-h-screen bg-gray-100 grid items-center justify-center">
+  <div class="grid items-center justify-center p-2">
     <div
       class="
         p-6
